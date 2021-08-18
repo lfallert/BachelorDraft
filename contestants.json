@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Aaron",
+        "age": 26,
+        "occupation": "Insurance Agent",
+        "picture": "image"
+    },
+
+    {
+        "name": "Andrew M.",
+        "age": 31,
+        "occupation": "Deputy District Attorney",
+        "picture": "image"
+    },
+
+    {
+        "name": "Andrew S.",
+        "age": 26,
+        "occupation": "Pro Football Player",
+        "picture": "image"
+    },
+
+    {
+        "name": "Austin",
+        "age": 25,
+        "occupation": "Real Estate Investor",
+        "picture": "image"
+    }
+]
